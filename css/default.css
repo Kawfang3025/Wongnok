@@ -1,0 +1,55 @@
+body,html{
+    height: 100%;
+}
+
+*{
+    font-family: 'Maitree', serif;
+}
+.bg1{
+    height: 100%;
+    background-image: url("../image/bg1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+.bg3{
+    height: 100%;
+    background-image: url("../image/bg3.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+.bg2{
+    height: 100%;
+    background-image: url("../image/bg2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+.thumbnail{
+    width: 80px;
+}
+.text-light{
+    background-color: rgba(39, 28, 28, 0.664);
+}
+.bgdarktone{
+    background-color: rgba(39, 28, 28, 0.664);
+}
+
+.cont-jumb{
+    margin-top:40px;
+}
+.results{
+    padding: 8%;
+    height: 40px;
+}
+.fa-star,.fa-star-o,.fa-star-half-o{
+    font-size:40px;
+    color:gold;
+}
